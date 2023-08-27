@@ -4,7 +4,7 @@
 #include "data.h"
 #include "hora.h"
 
-struct node{
+struct node {
     char descricao[40];
     date data;
     hour horas;
